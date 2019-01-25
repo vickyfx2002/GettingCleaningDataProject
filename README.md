@@ -15,7 +15,9 @@ I performed the following tasks using R (the code is stored in "run_analysis.R")
 
 - 'finaltidydata.txt': the indepedent tidy data set with the average of each variable for each activtiy and each subject
 
-- 'codebook.md': the code book includes all the variables and summaries calculated, along with units, and any other relevant information. 
+- 'codebook.md': the code book includes all the variables and summaries calculated, along with units, and any other relevant information.
+
+- 'run_analysis.R": the R code for performing the analysis based on the orginal data set to obtain the "finaltidydata.txt". 
 
 
 
