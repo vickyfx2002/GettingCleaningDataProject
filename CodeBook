@@ -1,0 +1,6 @@
+The "finaltidydata.txt" has 180 obeservations for 30 subjects' 6 activities. 
+1. The first column (var.) is the subject No. 
+2. The second column is the activity name. 
+3. Columns (variables) 3 to 81 record the average of each feature for each activity and each subject. 
+For example, column 3 named as "tbodyaccmeanx" is the average value for feature "tBodyAcc-mean()-X". 
+The detailed feature information can be found in the "features.txt" and "features_info.txt" from the original data set. 
